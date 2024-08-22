@@ -1,0 +1,9 @@
+streamlit
+MetaTrader5
+datetime
+pandas
+requests
+time
+plotly
+json
+pandas_ta
